@@ -1,0 +1,6773 @@
+{
+  "last_modified": {
+    "timestamp": 1715897867,
+    "results": [
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "timestamp": 1715897867
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "timestamp": 1715897867
+      }
+    ]
+  },
+  "active_users": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "uniqueCount.userId": 1343
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "uniqueCount.userId": 1096
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "uniqueCount.userId": 1093
+      },
+      {
+        "facet": "wildeerllp",
+        "appName": "wildeerllp",
+        "uniqueCount.userId": 394
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "uniqueCount.userId": 354
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "uniqueCount.userId": 246
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "uniqueCount.userId": 235
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "uniqueCount.userId": 107
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "uniqueCount.userId": 86
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "uniqueCount.userId": 71
+      }
+    ]
+  },
+  "avg_response_time": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "average.request_time": 25.58439593225029
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "average.request_time": 15.389205307856336
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "average.request_time": 13.955211189678995
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "average.request_time": 13.875545560494334
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "average.request_time": 13.691552675750096
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "average.request_time": 12.42711302982339
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "average.request_time": 11.239335692425401
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "average.request_time": 11.019788476079576
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "average.request_time": 6.8940831492873516
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "average.request_time": 6.758962127788245
+      }
+    ]
+  },
+  "batch_records_processed": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "uniqueCount.batchId": 1011707
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "uniqueCount.batchId": 185816
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "uniqueCount.batchId": 105859
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "uniqueCount.batchId": 10091
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "uniqueCount.batchId": 5041
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "uniqueCount.batchId": 2996
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "uniqueCount.batchId": 2981
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "uniqueCount.batchId": 150
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "uniqueCount.batchId": 8
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "uniqueCount.batchId": 2
+      }
+    ]
+  },
+  "data_processing_error_daily": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "rainforestapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 128994
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 1112003
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 405922
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 882162
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 434663
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 1805559
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 3627574
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 576789
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 1211856
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 360508
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 630296
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 240975
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 808003
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 1955453
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 272978
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 1011128
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 597726
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 995794
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 494945
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 630041
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 1452955
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 548179
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 904744
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 396077
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 1704400
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 380670
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 810653
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 1276152
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 458815
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 714527
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 229581
+          }
+        ]
+      },
+      {
+        "facet": "scaleserp",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 5921
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 12641
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 158162
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 225442
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 179291
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 182481
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 171895
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 729774
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 255938
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 255640
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 237838
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 206195
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 189848
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 24390
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 23414
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 7584
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 10200
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 11630
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 15124
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 27749
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 4555
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 30693
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 12252
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 12126
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 144348
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 195325
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 13220
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 8319
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 44341
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 15446
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 9116
+          }
+        ]
+      },
+      {
+        "facet": "serpwow",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 37845
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 109110
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 107321
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 74561
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 61013
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 61044
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 87500
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 104535
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 89500
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 79673
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 211169
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 137436
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 106788
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 94859
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 87886
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 86702
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 80687
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 76288
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 93733
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 565240
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 121309
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 87891
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 85460
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 79056
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 78611
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 104274
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 76303
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 80474
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 79455
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 83951
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 51341
+          }
+        ]
+      },
+      {
+        "facet": "valueserp",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 14025
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 71019
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 66780
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 76753
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 65676
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 54870
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 49200
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 56030
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 59425
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 56519
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 116322
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 66699
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 54184
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 41114
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 46789
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 39369
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 32019
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 29934
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 31059
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 172603
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 26270
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 35665
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 63968
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 63182
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 47539
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 49776
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 47935
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 26837
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 23555
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 41463
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 22811
+          }
+        ]
+      },
+      {
+        "facet": "countdownapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 20807
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 55624
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 55582
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 55268
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 53732
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 48825
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 49488
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 9140
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 5444
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 5627
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 7533
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 6081
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 5692
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 8080
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 7693
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 5520
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 4552
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 4649
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 5248
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 20466
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 5018
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 4606
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 4819
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 9160
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 4977
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 4652
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 4584
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 4901
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 4786
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 4549
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 2917
+          }
+        ]
+      },
+      {
+        "facet": "bluecartapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 573
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 1893
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 791
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 541
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 393
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 466
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 398
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 2550
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 1540
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 508
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 934
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 527
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 2727
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 628
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 31541
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 2814
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 7125
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 2280
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 1432
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 7042
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 2392
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 649
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 694
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 1639
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 6414
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 6697
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 7547
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 992
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 3573
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 1266
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 909
+          }
+        ]
+      },
+      {
+        "facet": "asindataapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 416
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 14740
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 8457
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 22910
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 19640
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 9016
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 5604
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 10686
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 4158
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 5163
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 12313
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 4878
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 6648
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 13293
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 9174
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 5676
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 10507
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 6449
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 6775
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 9776
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 7181
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 6537
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 8325
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 6897
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 22463
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 4758
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 3621
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 4289
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 3309
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 4533
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 2580
+          }
+        ]
+      },
+      {
+        "facet": "bigboxapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 1818
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 5565
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 6010
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 6043
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 5691
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 6036
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 5827
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 6263
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 5755
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 5948
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 6167
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 6242
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 5710
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 6124
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 6209
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 6242
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 5949
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 6433
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 6252
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 6288
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 6165
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 6373
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 6258
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 6238
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 5872
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 5927
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 6109
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 6005
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 5678
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 5988
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 4194
+          }
+        ]
+      },
+      {
+        "facet": "redcircleapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 46
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 226
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 82
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 149
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 218
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 158
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 87
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 145
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 866
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 170
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 547
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 309
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 120
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 79
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 172
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 181
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 121
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 317
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 162
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 1566
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 114
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 152
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 154
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 168
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 178
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 204
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 179
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 116
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 101
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 168
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 98
+          }
+        ]
+      },
+      {
+        "facet": null,
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 41
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 154
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 100
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 71
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 112
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 99
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 91
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 115
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 117
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 107
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 196
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 209
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 170
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 153
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 107
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 155
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 103
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 159
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 232
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 360
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 118
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 191
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 134
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 246
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 120
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 98
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 99
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 100
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 204
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 143
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 72
+          }
+        ]
+      },
+      {
+        "facet": "unknown",
+        "results": [
+          {
+            "date": "April 22, 2024",
+            "count": 1
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 3
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 5
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 5
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 3
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 2
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 3
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 3
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 11
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 10
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "facet": "backyardapi",
+        "results": [
+          {
+            "date": "April 22, 2024",
+            "count": 2
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 1
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "facet": "grafana",
+        "results": [
+          {
+            "date": "May 8, 2024",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  "data_processing_error_hourly": {
+    "timestamp": 1716305739,
+    "results": [
+      {
+        "facet": "rainforestapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 9722
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 12133
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 7719
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 12700
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 13640
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 9688
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 33412
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 82638
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 123136
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 41564
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 64370
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 20598
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 19748
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 43838
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 18616
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 28877
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 24287
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 5118
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 7176
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 10594
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 12492
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 8941
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 24827
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 31456
+          }
+        ]
+      },
+      {
+        "facet": "serpwow",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 3363
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 4829
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 5578
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 4397
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 2890
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 2298
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 2033
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 2320
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 2373
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 3406
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 3694
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 3258
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 2952
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 2980
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 2097
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 1631
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 1902
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 3383
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 7456
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 4579
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 3382
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 2253
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 2895
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 3078
+          }
+        ]
+      },
+      {
+        "facet": "valueserp",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 2322
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 3692
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 1901
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 3070
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 1500
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 2383
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 2703
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 2068
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 1775
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 1621
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 1672
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 1391
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 791
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 853
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 936
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 880
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 749
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 887
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 1032
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 1193
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 1177
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 1336
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 2107
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 1547
+          }
+        ]
+      },
+      {
+        "facet": "scaleserp",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 416
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 248
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 220
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 108
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 101
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 208
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 177
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 262
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 168
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 229
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 287
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 1265
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 792
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 270
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 504
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 1862
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 216
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 217
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 501
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 558
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 661
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 129
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 180
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 3202
+          }
+        ]
+      },
+      {
+        "facet": "bigboxapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 458
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 459
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 463
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 435
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 459
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 458
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 461
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 458
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 441
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 472
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 2
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 458
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 138
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 457
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 456
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "facet": "asindataapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 216
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 210
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 255
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 143
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 173
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 110
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 149
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 202
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 504
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 158
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 283
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 266
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 170
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 180
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 216
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 200
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 130
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 175
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 149
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 162
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 83
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 115
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 241
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 212
+          }
+        ]
+      },
+      {
+        "facet": "countdownapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 9
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 274
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 36
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 346
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 106
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 276
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 15
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 275
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 98
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 574
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 13
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 277
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 9
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 281
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 12
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 274
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 18
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 401
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 12
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 514
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 17
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 301
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 18
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 274
+          }
+        ]
+      },
+      {
+        "facet": "bluecartapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 47
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 28
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 30
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 52
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 37
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 47
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 59
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 17
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 12
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 135
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 28
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 25
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 5
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 15
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 33
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 41
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 15
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 70
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 77
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 300
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 51
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 85
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 36
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "facet": "redcircleapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 3
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 8
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 11
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 13
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 5
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 2
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 8
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 21
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 24
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 22
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 1
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 2
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 3
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 21
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 5
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 5
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "facet": "backyardapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 3
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  "data_records_processed_daily": {
+    "timestamp": 1716305744,
+    "results": [
+      {
+        "facet": "rainforestapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 4631601
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 15831826
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 18384144
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 16830244
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 13439653
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 13805821
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 13082319
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 12358580
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 12938215
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 7879846
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 15027324
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 11482559
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 14179100
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 11153566
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 12983449
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 17380969
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 23361413
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 19189306
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 18349899
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 13830358
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 11970730
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 12644154
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 15457802
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 18279909
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 14897208
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 18216562
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 14337759
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 11803404
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 7007009
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 16535387
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 8516474
+          }
+        ]
+      },
+      {
+        "facet": "serpwow",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 4046147
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 13248782
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 11760089
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 11058297
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 11054998
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 13631243
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 20736423
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 19123800
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 17480147
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 17002890
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 19040108
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 19381538
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 17168208
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 17268026
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 18287718
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 18276960
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 19741223
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 16738474
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 15659053
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 19744725
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 18072411
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 20064222
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 18609127
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 18855112
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 17274224
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 17502351
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 17835540
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 18351672
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 18635012
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 20707199
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 13075869
+          }
+        ]
+      },
+      {
+        "facet": "valueserp",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 1807975
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 5780435
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 6766945
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 7985184
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 7098304
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 6224077
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 5137626
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 4340598
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 5215149
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 4407987
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 4854519
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 5283763
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 4777802
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 4221300
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 4681089
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 5884354
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 4939450
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 4883047
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 5782263
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 4952261
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 4189446
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 3284768
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 6010046
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 3962994
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 5032237
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 5306357
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 4313201
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 4561495
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 3600407
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 4327619
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 2310406
+          }
+        ]
+      },
+      {
+        "facet": "scaleserp",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 376351
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 2153553
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 2098516
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 1969759
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 1988362
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 2034131
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 1789297
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 2406975
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 2730326
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 1985286
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 2373555
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 2046361
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 1949948
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 1539867
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 1734648
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 1759215
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 1670106
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 1991343
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 1901267
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 1641264
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 1608649
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 1695796
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 2224765
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 1980694
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 2188478
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 2343771
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 2363282
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 1702128
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 1796674
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 1928538
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 1621698
+          }
+        ]
+      },
+      {
+        "facet": "countdownapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 35496
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 171525
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 260571
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 428390
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 243978
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 141124
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 190249
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 150397
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 175873
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 115987
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 129574
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 222574
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 123612
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 176435
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 160372
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 130264
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 106146
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 97058
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 206498
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 122773
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 163359
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 116413
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 155919
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 252966
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 176940
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 183000
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 106344
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 164581
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 124830
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 347861
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 60118
+          }
+        ]
+      },
+      {
+        "facet": "bluecartapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 63792
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 362609
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 363792
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 290797
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 284467
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 295430
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 237084
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 328032
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 309175
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 356445
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 316280
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 329380
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 390020
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 265700
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 275153
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 333241
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 379886
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 282289
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 295477
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 309527
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 308001
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 245600
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 315695
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 366553
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 389064
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 347590
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 351252
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 271571
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 364023
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 344645
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 307467
+          }
+        ]
+      },
+      {
+        "facet": "asindataapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 39842
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 251425
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 258546
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 232857
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 241534
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 227496
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 198235
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 198820
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 227325
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 240658
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 256904
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 219435
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 199379
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 208167
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 183079
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 231549
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 242832
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 204994
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 212553
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 218013
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 259016
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 190953
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 238567
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 326787
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 277963
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 251917
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 240242
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 193212
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 212498
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 272756
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 180347
+          }
+        ]
+      },
+      {
+        "facet": "redcircleapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 5459
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 19356
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 20291
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 18951
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 28233
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 21699
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 15816
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 23900
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 18823
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 46619
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 137086
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 119537
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 6166
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 6135
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 6622
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 7723
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 12243
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 26700
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 21512
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 16887
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 13739
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 13718
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 16613
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 19539
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 30877
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 26248
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 23161
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 17696
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 15114
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 22179
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 13847
+          }
+        ]
+      },
+      {
+        "facet": "bigboxapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 33356
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 97471
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 97963
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 99616
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 95013
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 105792
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 102054
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 103509
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 96313
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 96860
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 102067
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 102037
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 97764
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 98248
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 99343
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 98733
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 90226
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 102736
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 98345
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 97517
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 92331
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 102413
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 101920
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 104425
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 96760
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 104470
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 104323
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 97443
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 106018
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 92143
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 66946
+          }
+        ]
+      },
+      {
+        "facet": null,
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 8355
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 21429
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 21903
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 22798
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 23467
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 20180
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 19583
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 19622
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 20289
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 20462
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 19701
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 23640
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 20165
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 21133
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 20603
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 21061
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 21768
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 21560
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 19766
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 17829
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 18210
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 18698
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 16662
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 19877
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 16032
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 18295
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 15906
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 16965
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 19166
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 16751
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 11790
+          }
+        ]
+      },
+      {
+        "facet": "backyardapi",
+        "results": [
+          {
+            "date": "April 21, 2024",
+            "count": 126
+          },
+          {
+            "date": "April 22, 2024",
+            "count": 238
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 131
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 257
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 131
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 130
+          },
+          {
+            "date": "April 27, 2024",
+            "count": 131
+          },
+          {
+            "date": "April 28, 2024",
+            "count": 346
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 140
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 140
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 140
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 140
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 355
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 142
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 142
+          },
+          {
+            "date": "May 12, 2024",
+            "count": 355
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 144
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 140
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 17, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 18, 2024",
+            "count": 139
+          },
+          {
+            "date": "May 19, 2024",
+            "count": 355
+          },
+          {
+            "date": "May 20, 2024",
+            "count": 143
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "facet": "grafana",
+        "results": [
+          {
+            "date": "April 22, 2024",
+            "count": 29
+          },
+          {
+            "date": "April 23, 2024",
+            "count": 22
+          },
+          {
+            "date": "April 24, 2024",
+            "count": 38
+          },
+          {
+            "date": "April 25, 2024",
+            "count": 23
+          },
+          {
+            "date": "April 26, 2024",
+            "count": 13
+          },
+          {
+            "date": "April 29, 2024",
+            "count": 59
+          },
+          {
+            "date": "April 30, 2024",
+            "count": 12
+          },
+          {
+            "date": "May 1, 2024",
+            "count": 45
+          },
+          {
+            "date": "May 2, 2024",
+            "count": 65
+          },
+          {
+            "date": "May 3, 2024",
+            "count": 46
+          },
+          {
+            "date": "May 4, 2024",
+            "count": 11
+          },
+          {
+            "date": "May 5, 2024",
+            "count": 13
+          },
+          {
+            "date": "May 6, 2024",
+            "count": 30
+          },
+          {
+            "date": "May 7, 2024",
+            "count": 32
+          },
+          {
+            "date": "May 8, 2024",
+            "count": 47
+          },
+          {
+            "date": "May 9, 2024",
+            "count": 11
+          },
+          {
+            "date": "May 10, 2024",
+            "count": 90
+          },
+          {
+            "date": "May 11, 2024",
+            "count": 17
+          },
+          {
+            "date": "May 13, 2024",
+            "count": 4
+          },
+          {
+            "date": "May 14, 2024",
+            "count": 73
+          },
+          {
+            "date": "May 15, 2024",
+            "count": 22
+          },
+          {
+            "date": "May 16, 2024",
+            "count": 7
+          },
+          {
+            "date": "May 21, 2024",
+            "count": 8
+          }
+        ]
+      }
+    ]
+  },
+  "data_records_processed_hourly": {
+    "timestamp": 1716305739,
+    "results": [
+      {
+        "facet": "serpwow",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 1531673
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 1462453
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 1431395
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 794827
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 824066
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 673523
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 631903
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 699848
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 675514
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 673901
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 667999
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 854998
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 793955
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 514822
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 605174
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 626760
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 629150
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 738253
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 894082
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 932410
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 875247
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 958393
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 897354
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 949531
+          }
+        ]
+      },
+      {
+        "facet": "rainforestapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 919948
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 761015
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 758055
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 810039
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 771840
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 1141275
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 1267657
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 1045026
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 1135391
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 1763775
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 1160243
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 562469
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 680322
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 665527
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 772057
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 769634
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 680882
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 434035
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 217229
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 268453
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 378244
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 594593
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 927424
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 758813
+          }
+        ]
+      },
+      {
+        "facet": "valueserp",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 268287
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 210606
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 204214
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 228684
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 189746
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 157205
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 178872
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 162146
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 145676
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 116829
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 163778
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 338976
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 117791
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 97962
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 133095
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 126695
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 103712
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 101670
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 169148
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 136994
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 94880
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 115525
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 159219
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 201117
+          }
+        ]
+      },
+      {
+        "facet": "scaleserp",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 33148
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 31119
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 1011520
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 71279
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 37464
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 30635
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 27485
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 58206
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 34070
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 30460
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 96006
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 31493
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 53898
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 26819
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 32961
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 32084
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 30830
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 25190
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 29629
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 25099
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 30775
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 72032
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 34202
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 41211
+          }
+        ]
+      },
+      {
+        "facet": "bluecartapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 10469
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 5828
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 22473
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 47541
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 12638
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 10357
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 4843
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 5010
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 6871
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 4178
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 4670
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 2562
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 5771
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 3608
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 7249
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 32507
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 10361
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 13495
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 16285
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 58692
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 20144
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 13355
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 5479
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 32468
+          }
+        ]
+      },
+      {
+        "facet": "asindataapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 4485
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 21962
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 19493
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 13161
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 4709
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 4997
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 9310
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 18765
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 5713
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 4078
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 13446
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 40733
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 16087
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 3555
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 14021
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 41841
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 4602
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 8354
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 3115
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 7128
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 5782
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 7668
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 8124
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 5633
+          }
+        ]
+      },
+      {
+        "facet": "countdownapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 648
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 12588
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 937
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 19752
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 4883
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 2021
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 844
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 1625
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 18129
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 15546
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 6725
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 2082
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 648
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 621
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 607
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 905
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 1070
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 2696
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 1080
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 16381
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 677
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 2769
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 2497
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 4099
+          }
+        ]
+      },
+      {
+        "facet": "bigboxapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 8643
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 32
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 8240
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 945
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 8760
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 1765
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 6121
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 98
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 8522
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 80
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 6399
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 45
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 8234
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 75
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 6366
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 32
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 8672
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 32
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 6329
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 356
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 8857
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 34
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 5582
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 21
+          }
+        ]
+      },
+      {
+        "facet": "redcircleapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 463
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 370
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 767
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 530
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 929
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 2674
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 1037
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 1921
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 1478
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 1588
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 882
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 1386
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 574
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 766
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 1314
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 859
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 1180
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 950
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 1056
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 631
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 597
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 949
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 457
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 499
+          }
+        ]
+      },
+      {
+        "facet": "backyardapi",
+        "results": [
+          {
+            "beginTimeSeconds": 1716199200,
+            "endTimeSeconds": 1716202800,
+            "beginTimeHour": "05:00 AM",
+            "endTimeHour": "06:00 AM",
+            "count": 2
+          },
+          {
+            "beginTimeSeconds": 1716202800,
+            "endTimeSeconds": 1716206400,
+            "beginTimeHour": "06:00 AM",
+            "endTimeHour": "07:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716206400,
+            "endTimeSeconds": 1716210000,
+            "beginTimeHour": "07:00 AM",
+            "endTimeHour": "08:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716210000,
+            "endTimeSeconds": 1716213600,
+            "beginTimeHour": "08:00 AM",
+            "endTimeHour": "09:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716213600,
+            "endTimeSeconds": 1716217200,
+            "beginTimeHour": "09:00 AM",
+            "endTimeHour": "10:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716217200,
+            "endTimeSeconds": 1716220800,
+            "beginTimeHour": "10:00 AM",
+            "endTimeHour": "11:00 AM",
+            "count": 2
+          },
+          {
+            "beginTimeSeconds": 1716220800,
+            "endTimeSeconds": 1716224400,
+            "beginTimeHour": "11:00 AM",
+            "endTimeHour": "12:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716224400,
+            "endTimeSeconds": 1716228000,
+            "beginTimeHour": "12:00 PM",
+            "endTimeHour": "01:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716228000,
+            "endTimeSeconds": 1716231600,
+            "beginTimeHour": "01:00 PM",
+            "endTimeHour": "02:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716231600,
+            "endTimeSeconds": 1716235200,
+            "beginTimeHour": "02:00 PM",
+            "endTimeHour": "03:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716235200,
+            "endTimeSeconds": 1716238800,
+            "beginTimeHour": "03:00 PM",
+            "endTimeHour": "04:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716238800,
+            "endTimeSeconds": 1716242400,
+            "beginTimeHour": "04:00 PM",
+            "endTimeHour": "05:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716242400,
+            "endTimeSeconds": 1716246000,
+            "beginTimeHour": "05:00 PM",
+            "endTimeHour": "06:00 PM",
+            "count": 135
+          },
+          {
+            "beginTimeSeconds": 1716246000,
+            "endTimeSeconds": 1716249600,
+            "beginTimeHour": "06:00 PM",
+            "endTimeHour": "07:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716249600,
+            "endTimeSeconds": 1716253200,
+            "beginTimeHour": "07:00 PM",
+            "endTimeHour": "08:00 PM",
+            "count": 4
+          },
+          {
+            "beginTimeSeconds": 1716253200,
+            "endTimeSeconds": 1716256800,
+            "beginTimeHour": "08:00 PM",
+            "endTimeHour": "09:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716256800,
+            "endTimeSeconds": 1716260400,
+            "beginTimeHour": "09:00 PM",
+            "endTimeHour": "10:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716260400,
+            "endTimeSeconds": 1716264000,
+            "beginTimeHour": "10:00 PM",
+            "endTimeHour": "11:00 PM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716264000,
+            "endTimeSeconds": 1716267600,
+            "beginTimeHour": "11:00 PM",
+            "endTimeHour": "12:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716267600,
+            "endTimeSeconds": 1716271200,
+            "beginTimeHour": "12:00 AM",
+            "endTimeHour": "01:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716271200,
+            "endTimeSeconds": 1716274800,
+            "beginTimeHour": "01:00 AM",
+            "endTimeHour": "02:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716274800,
+            "endTimeSeconds": 1716278400,
+            "beginTimeHour": "02:00 AM",
+            "endTimeHour": "03:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716278400,
+            "endTimeSeconds": 1716282000,
+            "beginTimeHour": "03:00 AM",
+            "endTimeHour": "04:00 AM",
+            "count": 0
+          },
+          {
+            "beginTimeSeconds": 1716282000,
+            "endTimeSeconds": 1716285600,
+            "beginTimeHour": "04:00 AM",
+            "endTimeHour": "05:00 AM",
+            "count": 0
+          }
+        ]
+      }
+    ]
+  },
+  "error_rates": {
+    "timestamp": 1716305746,
+    "results": [
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "percentage": 5.699101636564321
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "percentage": 5.069985675948801
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "percentage": 3.1202139616565443
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "percentage": 1.27675530299078
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "percentage": 0.5152148589001976
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "percentage": 0.48436977223403377
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "percentage": 0.42959971725145
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "percentage": 0.2287024584633549
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "percentage": 0.10752123544400019
+      },
+      {
+        "facet": "unknown",
+        "appName": "unknown",
+        "percentage": 0
+      }
+    ]
+  },
+  "real_time_records_processed": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "count": 497894446
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "count": 264894263
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "count": 80452692
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "count": 24075950
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "count": 7110892
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "count": 3813984
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "count": 2819707
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "count": 1516910
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "count": 730729
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "count": 4147
+      }
+    ]
+  },
+  "low_data_processing": {
+    "timestamp": 1716305739,
+    "results": [
+      {
+        "facet": "serpwow",
+        "value": "06:00 PM to 08:00 PM"
+      },
+      {
+        "facet": "rainforestapi",
+        "value": "11:00 PM to 01:00 AM"
+      },
+      {
+        "facet": "valueserp",
+        "value": "09:00 PM to 11:00 PM"
+      },
+      {
+        "facet": "scaleserp",
+        "value": "11:00 PM to 01:00 AM"
+      },
+      {
+        "facet": "bluecartapi",
+        "value": "03:00 PM to 05:00 PM"
+      },
+      {
+        "facet": "asindataapi",
+        "value": "09:00 AM to 11:00 AM"
+      },
+      {
+        "facet": "countdownapi",
+        "value": "06:00 PM to 08:00 PM"
+      },
+      {
+        "facet": "bigboxapi",
+        "value": "03:00 AM to 05:00 AM"
+      },
+      {
+        "facet": "redcircleapi",
+        "value": "05:00 AM to 07:00 AM"
+      },
+      {
+        "facet": "backyardapi",
+        "value": "06:00 AM to 08:00 AM"
+      }
+    ]
+  },
+  "medium_data_processing": {
+    "timestamp": 1716305739,
+    "results": [
+      {
+        "facet": "serpwow",
+        "value": "07:00 PM to 09:00 PM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "rainforestapi",
+        "value": "12:00 AM to 02:00 AM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "valueserp",
+        "value": "01:00 AM to 03:00 AM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "scaleserp",
+        "value": "10:00 PM to 12:00 AM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "bluecartapi",
+        "value": "04:00 PM to 06:00 PM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "asindataapi",
+        "value": "01:00 PM to 03:00 PM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "countdownapi",
+        "value": "05:00 PM to 07:00 PM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "bigboxapi",
+        "value": "02:00 AM to 04:00 AM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "redcircleapi",
+        "value": "03:00 AM to 05:00 AM",
+        "timestamp": 1716305739
+      },
+      {
+        "facet": "backyardapi",
+        "value": "07:00 AM to 09:00 AM",
+        "timestamp": 1716305739
+      }
+    ]
+  }
+}

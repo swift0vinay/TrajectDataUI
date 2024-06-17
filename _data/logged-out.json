@@ -1,0 +1,292 @@
+{
+  "last_modified": {
+    "timestamp": 1715897867,
+    "results": [
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "timestamp": 1715897867
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "timestamp": 1715897867
+      }
+    ]
+  },
+  "active_users": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "uniqueCount.userId": 1343
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "uniqueCount.userId": 1096
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "uniqueCount.userId": 1093
+      },
+      {
+        "facet": "wildeerllp",
+        "appName": "wildeerllp",
+        "uniqueCount.userId": 394
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "uniqueCount.userId": 354
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "uniqueCount.userId": 246
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "uniqueCount.userId": 235
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "uniqueCount.userId": 107
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "uniqueCount.userId": 86
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "uniqueCount.userId": 71
+      }
+    ]
+  },
+  "avg_response_time": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "average.request_time": 25.58439593225029
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "average.request_time": 15.389205307856336
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "average.request_time": 13.955211189678995
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "average.request_time": 13.875545560494334
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "average.request_time": 13.691552675750096
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "average.request_time": 12.42711302982339
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "average.request_time": 11.239335692425401
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "average.request_time": 11.019788476079576
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "average.request_time": 6.8940831492873516
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "average.request_time": 6.758962127788245
+      }
+    ]
+  },
+  "batch_records_processed": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "uniqueCount.batchId": 1011707
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "uniqueCount.batchId": 185816
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "uniqueCount.batchId": 105859
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "uniqueCount.batchId": 10091
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "uniqueCount.batchId": 5041
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "uniqueCount.batchId": 2996
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "uniqueCount.batchId": 2981
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "uniqueCount.batchId": 150
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "uniqueCount.batchId": 8
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "uniqueCount.batchId": 2
+      }
+    ]
+  },
+  "error_rates": {
+    "timestamp": 1716305746,
+    "results": [
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "percentage": 5.699101636564321
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "percentage": 5.069985675948801
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "percentage": 3.1202139616565443
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "percentage": 1.27675530299078
+      },
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "percentage": 0.5152148589001976
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "percentage": 0.48436977223403377
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "percentage": 0.42959971725145
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "percentage": 0.2287024584633549
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "percentage": 0.10752123544400019
+      },
+      {
+        "facet": "unknown",
+        "appName": "unknown",
+        "percentage": 0
+      }
+    ]
+  },
+  "real_time_records_processed": {
+    "timestamp": 1716305743,
+    "results": [
+      {
+        "facet": "serpwow",
+        "appName": "serpwow",
+        "count": 497894446
+      },
+      {
+        "facet": "rainforestapi",
+        "appName": "rainforestapi",
+        "count": 264894263
+      },
+      {
+        "facet": "valueserp",
+        "appName": "valueserp",
+        "count": 80452692
+      },
+      {
+        "facet": "scaleserp",
+        "appName": "scaleserp",
+        "count": 24075950
+      },
+      {
+        "facet": "bluecartapi",
+        "appName": "bluecartapi",
+        "count": 7110892
+      },
+      {
+        "facet": "asindataapi",
+        "appName": "asindataapi",
+        "count": 3813984
+      },
+      {
+        "facet": "bigboxapi",
+        "appName": "bigboxapi",
+        "count": 2819707
+      },
+      {
+        "facet": "countdownapi",
+        "appName": "countdownapi",
+        "count": 1516910
+      },
+      {
+        "facet": "redcircleapi",
+        "appName": "redcircleapi",
+        "count": 730729
+      },
+      {
+        "facet": "backyardapi",
+        "appName": "backyardapi",
+        "count": 4147
+      }
+    ]
+  }
+}

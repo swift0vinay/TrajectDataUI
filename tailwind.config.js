@@ -7,12 +7,22 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+      colors: {
+        navbar_bg: "#273745",
+        button_bg: "#216550",
+        light_red: "#f7ac9b",
+        light_green: "#d1e0d9",
+        light_yellow: "#f9cf8f",
+        font_bg: "#cccccc"
+      }
     },
   },
   plugins: [],
 };
+
+
+// blue: #273745
+// green: #216550
+// light red : #f7ac9b
+// light green : #d1e0d9
+// light yellow: #f9cf8f
